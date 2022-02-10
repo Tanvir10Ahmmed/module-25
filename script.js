@@ -413,12 +413,6 @@ btn4delete.addEventListener('click', function () {
 
 
 
-
-
-
-
-
-
 // console.log("---------------------------special note---------------------------");
 /*
 * event parameter হচ্ছে যাকে কোণ event-handller দেয়া হয়েছে
